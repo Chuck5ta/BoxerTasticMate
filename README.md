@@ -15,6 +15,9 @@ Just because I could :-)
 
 #### Very Brief How-To
 ===============
+
 1) Configure the number and position of game clients on your computer screens.
+
 2) Configure the shotcut keys you wish to have broadcast to the game clients.
+
 3) Go!!!
