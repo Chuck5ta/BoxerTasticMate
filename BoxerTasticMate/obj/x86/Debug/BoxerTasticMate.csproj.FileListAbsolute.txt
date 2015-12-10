@@ -1,0 +1,49 @@
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.exe
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.pdb
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Form1.resources
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Properties.Resources.resources
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csproj.GenerateResource.Cache
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.exe
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.pdb
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate - write-off\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.exe
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate - write-off\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.pdb
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate - write-off\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csprojResolveAssemblyReference.cache
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate - write-off\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Form1.resources
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate - write-off\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Properties.Resources.resources
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate - write-off\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csproj.GenerateResource.Cache
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate - write-off\BoxerTasticMate\bin\Debug\BoxerTasticMate.exe
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate - write-off\BoxerTasticMate\bin\Debug\BoxerTasticMate.pdb
+E:\Personal\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csprojResolveAssemblyReference.cache
+C:\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.exe
+C:\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.pdb
+C:\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.exe
+C:\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.pdb
+C:\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csprojResolveAssemblyReference.cache
+C:\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Form1.resources
+C:\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Properties.Resources.resources
+C:\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csproj.GenerateResource.Cache
+D:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.exe
+D:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.pdb
+D:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.exe
+D:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.pdb
+D:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csprojResolveAssemblyReference.cache
+D:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Form1.resources
+D:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Properties.Resources.resources
+D:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csproj.GenerateResource.Cache
+E:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.exe
+E:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.pdb
+E:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.exe
+E:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.pdb
+E:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Form1.resources
+E:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Properties.Resources.resources
+E:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csproj.GenerateResource.Cache
+E:\Data transfer\TEMP\Projects\Botting\Eve Online\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csprojResolveAssemblyReference.cache
+E:\Current Projects\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.exe
+E:\Current Projects\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\bin\Debug\BoxerTasticMate.pdb
+E:\Current Projects\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Form1.resources
+E:\Current Projects\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.Properties.Resources.resources
+E:\Current Projects\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.csproj.GenerateResource.Cache
+E:\Current Projects\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.exe
+E:\Current Projects\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.pdb
+D:\Current Projects\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.exe
+D:\Current Projects\Multi Boxing Client\BoxerTasticMate\BoxerTasticMate\obj\x86\Debug\BoxerTasticMate.pdb
